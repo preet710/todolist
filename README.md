@@ -16,7 +16,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/todolist-project.git
+git clone https://github.com/preet710/todolist/tree/main
 cd todolist-project
 Open in Browser: Simply open the index.html file in your web browser to start using the app.
 
